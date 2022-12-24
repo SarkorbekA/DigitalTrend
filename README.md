@@ -3,5 +3,5 @@ Swiper.js+
 .Pug+
 SCSS+
 GSAP+ 
-Responsive site
+Responsive site.
 For a 1 week
