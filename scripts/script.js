@@ -85,23 +85,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-console.log("Ася жонм 💖");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
