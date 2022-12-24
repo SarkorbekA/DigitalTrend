@@ -271,6 +271,7 @@ section.slider .container {
   gap: 20px;
 }
 section.slider .container h1 {
+  padding: 0px 10px;
   max-width: 500px;
   font-size: 26px;
   text-align: center;
