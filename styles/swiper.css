@@ -1,9 +1,9 @@
 html .swiper,
 body .swiper {
   max-width: 700px;
-  width: 95%;
+  width: 97%;
   height: 420px;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 html .swiper .swiper-slide,
 body .swiper .swiper-slide {
