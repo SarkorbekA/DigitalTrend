@@ -1,2 +1,7 @@
 # DigitalTrend
-Swiper.js Pug SCSS GSAP , 1w responsive site
+Swiper.js+
+.Pug+
+SCSS+
+GSAP+ 
+Responsive site
+For a 1 week
